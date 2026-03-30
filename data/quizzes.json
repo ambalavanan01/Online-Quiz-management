@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Web Development",
+        "duration_minutes": 3,
+        "difficulty": "Beginner",
+        "negative_marking": 0,
+        "password": "9894",
+        "status": "published",
+        "max_attempts": 1,
+        "hide_results": false,
+        "allow_skip": true,
+        "proctoring_strictness": true,
+        "created_by": "69ca8fa6a917b",
+        "id": "69ca950708a9b",
+        "created_at": "2026-03-30 17:21:43"
+    }
+]
