@@ -1,6 +1,34 @@
-# Online Quiz Management System
+<div align="center">
+  <!-- Replace this banner with your actual project banner image -->
+  <img src="https://via.placeholder.com/1000x200/007bff/ffffff?text=Online+Quiz+Management+System" alt="Project Banner" style="border-radius: 8px;">
 
-A robust, feature-rich online quiz platform built with PHP. This system provides a comprehensive solution for creating, managing, and taking quizzes without the need for an external database server—it runs entirely on a fast, concurrent flat-file JSON database system.
+  <h1>🎓 Online Quiz Management System</h1>
+
+  <p>
+    <strong>A robust, feature-rich online quiz platform built with PHP.</strong>
+  </p>
+
+  <p>
+    <a href="https://php.net"><img src="https://img.shields.io/badge/PHP-%3E%3D%207.4-777BB4?style=for-the-badge&logo=php" alt="PHP Version"></a>
+    <a href="#"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="License"></a>
+    <a href="#"><img src="https://img.shields.io/badge/Database-JSON%20Flat--file-brightgreen?style=for-the-badge" alt="JSON Database"></a>
+    <a href="#"><img src="https://img.shields.io/badge/PRs-welcome-success.svg?style=for-the-badge" alt="PRs Welcome"></a>
+  </p>
+</div>
+
+---
+
+This system provides a comprehensive solution for creating, managing, and taking quizzes without the need for an external database server—it runs entirely on a fast, concurrent flat-file JSON database system.
+
+## 📸 Screenshots Overview
+
+> **Note to developer:** Add your actual project screenshots here by replacing these placeholders! (e.g., take screenshots and place them in your `assets/` folder). This dramatically increases the appeal of your portfolio project.
+
+<div align="center">
+  <img src="https://via.placeholder.com/600x350/f4f4f4/333?text=Admin+Dashboard+Screenshot" alt="Admin Dashboard" width="48%">
+  <img src="https://via.placeholder.com/600x350/f4f4f4/333?text=Student+Quiz+View+Screenshot" alt="Student Quiz View" width="48%">
+</div>
+<br/>
 
 ## 🌟 Key Features
 
@@ -46,7 +74,8 @@ A robust, feature-rich online quiz platform built with PHP. This system provides
     chmod -R 777 data uploads
     ```
 3. **Run the Application**: Open your browser and navigate to the project folder (e.g., `http://localhost/online-quiz-management/`).
-4. **Default Login**: *(You may need to register an admin user if the system provides an installation script, or use standard credentials if configured).*
+4. **Default Login**: The first user to register may be granted Admin privileges automatically, or check the system's initialization rules.
+    > **💡 Tip for Portfolio:** If you are showing this to employers, explicitly add demo credentials here (e.g., *Email: `admin@demo.com`, Password: `admin123`*) so they can test it instantly!
 
 ## 🗂️ Project Structure
 
